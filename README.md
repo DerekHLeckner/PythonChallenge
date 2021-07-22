@@ -2,7 +2,7 @@
 
 ## Background
 
-Both of these challenges use the python programming languages to address real world challenges
+Both of these challenges use the python programming language to address real world challenges
 
 ## PyBank
 
